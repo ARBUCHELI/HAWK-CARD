@@ -1,0 +1,62 @@
+/* add your CSS here */
+.interesting_fact {
+	font-style: italic;
+
+	padding-left: 10px;
+	padding-right: 7px;
+
+	color: #f2f2f2;
+}
+
+.item {
+	font-weight: bold;
+}
+
+.list {
+	list-style-type: none;
+
+	padding-left: 10px;
+
+	color: #f2f2f2;
+}
+
+.information {
+	border: 0.5px solid #f2f2f2;
+
+	width: 300px;
+
+	border-radius: 5px;
+}
+
+.description {
+	padding-left: 10px;
+
+	color: #f2f2f2;
+}
+
+.foto {
+	padding-bottom: 6px;
+
+	padding-top: 0.05px;
+}
+
+.content {
+	border: 1px solid #8c8c73;
+	border-radius: 5px;
+
+	width: 300px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 0.1px;
+
+	box-shadow: 5px 5px #b8b894;
+
+	background-color: #cccc33;
+}
+
+.name {
+	color: #f2f2f2;
+}
+
